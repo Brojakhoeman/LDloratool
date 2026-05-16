@@ -1,3 +1,8 @@
+unzip the file into ComfyUI\custom_nodes
+run the bat, install musubi to c or another drive (not linux friendly) 
+
+it will download like 60 gb not 30 
+
 <img width="1145" height="521" alt="image" src="https://github.com/user-attachments/assets/e51dd8ec-a755-4994-87ed-3e000bae9e55" />
 
 
